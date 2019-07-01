@@ -31,4 +31,3 @@ for i in range(len(x_train)):
     print(x_train[i])
     print(new_x)
     print('\n')
-# fgsm2.generate(x, **fgsm_params)
