@@ -9,7 +9,7 @@ autopep8 = "*"
 
 [packages]
 cleverhans = {git = "https://github.com/tensorflow/cleverhans.git"}
-tensorflow = "==1.12"
+tensorflow = "==1.12.2"
 
 [requires]
 python_version = "3.6"
